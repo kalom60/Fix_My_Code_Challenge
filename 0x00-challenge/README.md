@@ -1,1 +1,1 @@
-0x00 Challenge
+challenge
